@@ -1,25 +1,18 @@
-# Ember-disable-prototype-extensions
+# ember-disable-prototype-extensions
 
-This README outlines the details of collaborating on this Ember addon.
+Including this addon will disable Ember's prototype extensions.
 
-## Installation
+This is a great idea for addon authors to ensure that their addon does not accidentally depend upon prototype extensions (which may be disabled in a consuming application).
+
+## Collaboration
+
+### Setup
 
 * `git clone` this repository
 * `npm install`
 * `bower install`
 
-## Running
-
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
+### Running Tests
 
 * `ember test`
 * `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
