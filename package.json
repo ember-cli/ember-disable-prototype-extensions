@@ -1,6 +1,6 @@
 {
   "name": "ember-disable-prototype-extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Disable Ember's prototype extensions.",
   "directories": {
     "test": "tests"
