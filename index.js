@@ -6,7 +6,7 @@ module.exports = {
 
   contentFor: function(type) {
     if (type === 'vendor-prefix') {
-      return 'EmberENV.EXTEND_PROTOTYPES = false;';
+      return 'self.EmberENV.EXTEND_PROTOTYPES = false;';
     }
   }
 };
