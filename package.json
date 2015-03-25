@@ -1,7 +1,7 @@
 {
   "name": "ember-disable-prototype-extensions",
   "version": "1.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Disable Ember's prototype extensions.",
   "directories": {
     "test": "tests"
   },
