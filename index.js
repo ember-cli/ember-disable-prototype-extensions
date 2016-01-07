@@ -1,12 +1,11 @@
 /* jshint node: true */
 'use strict';
+var path = require('path');
 
 module.exports = {
   name: 'ember-disable-prototype-extensions',
 
-  contentFor: function(type) {
-    if (type === 'vendor-prefix') {
-      return 'self.EmberENV.EXTEND_PROTOTYPES = false;';
-    }
+  included: function() {
+    this.app.import(path.join('vendor', 'disable-prototype-extensions.js'), { type: 'vendor', prepend: true });
   }
 };
