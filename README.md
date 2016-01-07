@@ -18,5 +18,6 @@ http://guides.emberjs.com/v1.11.0/configuring-ember/disabling-prototype-extensio
 
 ### Running Tests
 
+* `npm test` (Runs `ember try:testall` to test your addon against multiple Ember versions)
 * `ember test`
 * `ember test --server`
