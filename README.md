@@ -1,5 +1,6 @@
 # ember-disable-prototype-extensions
 
+[![Build Status](https://travis-ci.org/ember-cli/ember-disable-prototype-extensions.svg?branch=master)](https://travis-ci.org/ember-cli/ember-disable-prototype-extensions)
 [![Build status](https://ci.appveyor.com/api/projects/status/xvg1fxk24lh5u0eg/branch/master?svg=true)](https://ci.appveyor.com/project/embercli/ember-disable-prototype-extensions/branch/master)
 
 Including this addon will disable Ember's prototype extensions.
