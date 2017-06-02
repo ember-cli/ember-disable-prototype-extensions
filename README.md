@@ -8,6 +8,12 @@ For instructions on disabling prototype extensions see the Ember guide:
 
 http://guides.emberjs.com/v1.11.0/configuring-ember/disabling-prototype-extensions/
 
+## Installation 
+
+```sh
+ember install ember-disable-prototype-extensions
+```
+
 ## Collaboration
 
 ### Setup
