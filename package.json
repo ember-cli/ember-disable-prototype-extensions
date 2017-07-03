@@ -40,9 +40,6 @@
   "keywords": [
     "ember-addon"
   ],
-  "dependencies": {
-    "bower": "^1.8.0"
-  },
   "ember-addon": {
     "configPath": "tests/dummy/config"
   },
