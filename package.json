@@ -34,7 +34,7 @@
     "ember-cli-uglify": "^1.2.0",
     "ember-export-application-global": "^2.0.0",
     "ember-resolver": "^5.0.1",
-    "ember-source": "^2.13.3",
+    "ember-source": "^3.6.1",
     "loader.js": "^4.4.0"
   },
   "keywords": [
