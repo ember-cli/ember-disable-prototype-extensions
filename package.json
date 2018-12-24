@@ -15,7 +15,7 @@
     "url": "https://github.com/ember-cli/ember-disable-prototype-extensions.git"
   },
   "engines": {
-    "node": ">= 0.10.0"
+    "node": "6.* || 8.* || >= 10.*"
   },
   "author": "Robert Jackson <me@rwjblue.com>",
   "license": "MIT",
