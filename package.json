@@ -27,7 +27,7 @@
     "ember-cli-htmlbars-inline-precompile": "^2.1.0",
     "ember-cli-inject-live-reload": "^2.0.1",
     "ember-qunit": "^4.3.0",
-    "ember-resolver": "^5.0.1",
+    "ember-resolver": "^5.1.1",
     "ember-source": "^3.7.3",
     "ember-try": "^1.1.0",
     "loader.js": "^4.4.0"
